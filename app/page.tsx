@@ -3,7 +3,6 @@ import Image from "next/image";
 import PerfumeCard from "./components/perfume/page";
 import TshirtCard from "./components/tshirt/page";
 import CapCard from "./components/caps/page";
-import HoodieCard from "./components/Hoddie/page";
 import Hero from "./productsAll/page";
 import ServicesPage from "./services/page";
 import JewelryCard from "./components/jewelry/page";
