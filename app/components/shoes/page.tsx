@@ -31,7 +31,7 @@ export default async function ShoesCard() {
             key={Shoes.id}
             className="group relative bg-gray-800 border border-gray-700 rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition-transform transform hover:scale-105"
           >
-            <Link href={`/product/Shoes/${Shoes.slug.current}`}>
+            <Link href={`/product/shoes/${Shoes.slug.current}`}>
               <div className="relative w-full h-64 cursor-pointer">
                 <Image
                   alt={`Image of ${Shoes.name}`}
